@@ -2,7 +2,7 @@
 
 # ALttP VT Randomizer
 
-## First and foremost, big thanks to Dessyreqt, Christos, Smallhacker, and Karkat for their work.
+## First and foremost, big thanks to Dessyreqt, Christos, Smallhacker, and KatDevsGames (Formally Karkat) for their work.
 ### Without their work none of this would even be remotely possible.
 
 ## Installing dependencies
